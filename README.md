@@ -46,8 +46,9 @@ Here is a step by step guide to follow in order to run the project files locally
 
 Data used came from NYC OpenData. Provided by the Department of Health and Mental Hygiene (DOHMH)
 
-HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity:
-https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data
+- [Student Performance – Math and Portuguese](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
+
+[HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity](https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data)
 
 HIV/AIDS Diagnoses by Neighborhood, Age Group, and Race/Ethnicity:
 https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data
