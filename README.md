@@ -38,15 +38,15 @@ Here is a step by step guide to follow in order to run the project files locally
 
 ## Data Sources
 
-Data used came from NYC OpenData. Provided by the Department of Health and Mental Hygiene (DOHMH)
+Data used came from [NYC_OpenData](https://opendata.cityofnewyork.us/). Provided by the Department of Health and Mental Hygiene (DOHMH)
 
-[HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity](https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data)
+HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity
 
-Direct link:https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data
+https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data
 
-[HIV/AIDS Diagnoses by Neighborhood, Age Group, and Race/Ethnicity](https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data)
+HIV/AIDS Diagnoses by Neighborhood, Age Group, and Race/Ethnicity
 
-Direct link:https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data
+https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data
 
 ## Features
 
