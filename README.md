@@ -2,17 +2,11 @@
 
 ## Overview & Objective
 
-This project aims to analyze the patterns and disparities of HIV infections in New York City, focusing on how race/ethnicity, age group, gender and neighborhood influence the rate of contamination. The primary goal is to identify which groups are most affected as they will serve as good indication of where public health interventions could have a huge impact.
+This project aims to analyze the patterns and disparities of HIV infections in New York City, focusing on how race/ethnicity, age group, gender and neighborhood influence the rate of contamination. The primary goal is to identify which groups are most affected as they will serve as good indications of where public health interventions could have a huge impact.
 
 ## Data Summary
 
-These data were reported to the NYC DOHMH by March 31, 2021
-
-Both datasets include data on new diagnoses of HIV and AIDS in NYC for the calendar years 2016 through 2020. Reported cases and case rates (per 100,000 population) are stratified by United Hospital Fund (UHF) neighborhood, sex, and race/ethnicity.
-
-Note:
-
-- Cells marked "NA" cannot be calculated because of cell suppression or 0 denominator.
+These data were obtained from NYC OpenData website. Where they were reported on March 31, 2021. The datasets include data on new diagnoses of HIV and AIDS grouped in different categories: Races/ethnicities, genders, age-groupes and neighborhoods across New York City. These data were taken for the calendar years 2010 through 2020
 
 ## Primary Files
 
@@ -46,12 +40,13 @@ Here is a step by step guide to follow in order to run the project files locally
 
 Data used came from NYC OpenData. Provided by the Department of Health and Mental Hygiene (DOHMH)
 
-- [Student Performance – Math and Portuguese](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
-
 [HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity](https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data)
 
-HIV/AIDS Diagnoses by Neighborhood, Age Group, and Race/Ethnicity:
-https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data
+Direct link:https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data
+
+[HIV/AIDS Diagnoses by Neighborhood, Age Group, and Race/Ethnicity](https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data)
+
+Direct link:https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data
 
 ## Features
 
@@ -63,3 +58,5 @@ https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Grou
 6. README: Current file
 
 ## Conclusion & Recommendations
+
+After a long and interesting journey into this data exploration; I have created five different visualizations all informing on HIV and AIDS diagnoses in New York City. I noticed that young black people between the 20 and 29 followed by whites and Latino Hispanic are the most impacted. After pushing my analysis outside the age 20-29 bracket to include age 30-39, I noticed that the same neighborhoods with high diagnoses rates appeared in both age brackets. Based on trends observed from 2010 to 2020; I uncovered a significant drop in AIDS diagnoses in 2013 while HIV diagnoses rates were still remarkably high but a slight drop was also observed in 2013. Lastly HIV and AIDS diagnoses are much more higher in males across all age groups and neighborhoods than they are in other genders.
