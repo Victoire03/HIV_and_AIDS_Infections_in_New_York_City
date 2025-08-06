@@ -40,9 +40,11 @@ Here is a step by step guide to follow in order to run the project files locally
 
 Data used came from [NYC_OpenData](https://opendata.cityofnewyork.us/). Provided by the Department of Health and Mental Hygiene (DOHMH)
 
-[HIV_AIDS_Diagnoses_by_Neighborhood_Sex_and_Race](https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data)
+HIV/AIDS Diagnoses by Neighborhood Sex and Race/Ethnicity
+https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Sex-and-Race-Et/ykvb-493p/about_data
 
-[HIV_AIDS_Diagnoses_by_Neighborhood_Age_Group_and_Race](https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data)
+HIV AIDS Diagnoses by Neighborhood Age Group and Race/Ethnicity
+https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Group-and-R/dxnu-p2qd/about_data
 
 ## Features
 
