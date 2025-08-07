@@ -59,10 +59,8 @@ https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Grou
 
 ## Other Files
 
-Large Joined Dataset
 [Age_Gender_Joined](https://drive.google.com/file/d/1Cf22gqTC9laz4bomcZQ0fYB5xGft64Tp/view?usp=drive_link)
 
-Project Presentation
 [Project_Presentation](https://drive.google.com/file/d/10Cv7wSjik1lKSavbHYTCHkCfBlgfdKox/view?usp=drive_link)
 
 ## Conclusion & Recommendations
