@@ -57,6 +57,14 @@ https://data.cityofnewyork.us/Health/HIV-AIDS-Diagnoses-by-Neighborhood-Age-Grou
 5. Functions: Created two functions - One used for data cleaning and the other for calculation
 6. README: Current file
 
+## Other Files
+
+Large Joined Dataset
+[Age_Gender_Joined](https://drive.google.com/file/d/1Cf22gqTC9laz4bomcZQ0fYB5xGft64Tp/view?usp=drive_link)
+
+Project Presentation
+[Project_Presentation](https://drive.google.com/file/d/10Cv7wSjik1lKSavbHYTCHkCfBlgfdKox/view?usp=drive_link)
+
 ## Conclusion & Recommendations
 
-After a long and interesting journey into this data exploration; I have created five different visualizations all informing on HIV and AIDS diagnoses in New York City. I noticed that young black people between the 20 and 29 followed by whites and Latino Hispanic are the most impacted. After pushing my analysis outside the age 20-29 bracket to include age 30-39, I noticed that the same neighborhoods with high diagnoses rates appeared in both age brackets. Based on trends observed from 2010 to 2020; I uncovered a significant drop in AIDS diagnoses in 2013 while HIV diagnoses rates were still remarkably high but a slight drop was also observed in 2013. Lastly HIV and AIDS diagnoses are much more higher in males across all age groups and neighborhoods than they are in other genders.
+After a long and interesting journey into this data exploration; I have created five different visualizations all informing on HIV and AIDS diagnoses in New York City. I noticed that young black people between the 20 and 29 followed by whites and Latino Hispanic are the most impacted. After pushing my analysis outside the age 20-29 bracket to include age 30-39, I noticed that the same neighborhoods with high diagnoses rates appeared in both age brackets. Based on trends observed from 2010 to 2020; I uncovered a significant drop in AIDS diagnoses in 2013 while HIV diagnoses rates were still remarkably high but a slight drop was also observed in 2013. Lastly HIV and AIDS diagnoses are much higher in males across all age groups and neighborhoods than they are in other genders.
